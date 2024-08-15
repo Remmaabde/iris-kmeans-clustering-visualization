@@ -1,4 +1,3 @@
-# iris-kmeans-clustering-visualization
 # Iris K-Means Clustering Analysis
 
 ## Overview
